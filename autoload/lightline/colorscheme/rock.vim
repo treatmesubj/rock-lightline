@@ -1,4 +1,4 @@
-" ~/.vim/plugged/lightline.vim/autoload/lightline/colorscheme/rock.vim
+" ~/.vim/plugged/rock-lightline/autoload/lightline/colorscheme/rock.vim
 let s:black = [ '#232526', 233 ]
 let s:gray = [ '#808080', 244 ]
 let s:white = [ '#f8f8f2', 234 ]
