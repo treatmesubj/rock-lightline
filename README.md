@@ -2,6 +2,8 @@
 
 colorscheme for [lightline.vim](https://github.com/itchyny/lightline.vim)
 
+![](./images/demo.png)
+
 ## Installation via [vim-plug](https://github.com/junegunn/vim-plug) 
 
 In `~/.vimrc`, add `Plug` to `plug` function and customize lightline colorscheme like so...
