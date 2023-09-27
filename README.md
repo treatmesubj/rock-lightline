@@ -8,7 +8,7 @@ colorscheme for [lightline.vim](https://github.com/itchyny/lightline.vim)
 
 In `~/.vimrc`, add `Plug` to `plug` function and customize lightline colorscheme like so...
 
-```vimscript
+```vim
 call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
 Plug 'treatmesubj/rock-lightline'
