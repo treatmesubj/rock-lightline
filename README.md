@@ -24,6 +24,8 @@ let g:lightline = {
       \ },
       \ 'component': {
       \   'charvaluehex': '0x%B',
+      \   'position': '%l,%c',
+      \   'pos+hex': '%l,%c:0x%B',
       \ },
       \ }
 ```
