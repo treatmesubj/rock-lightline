@@ -35,3 +35,17 @@ Then...
 vim ~/.vimrc  # then, ':PlugInstall'
 ```
 
+---
+# Bonus: Bash vi mode colors
+
+- `~/.bashrc`
+```bash
+set -o vi
+```
+
+- `~/.inputrc`
+```bash
+set show-mode-in-prompt on
+set vi-ins-mode-string "\1\e[38;5;16;48;5;71m\2 INSERT \1\e[0m\2"
+set vi-cmd-mode-string "\1\e[38;5;16;48;5;24m\2 NORMAL \1\e[0m\2"
+```
